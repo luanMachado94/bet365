@@ -1,0 +1,222 @@
+[
+    {
+        "Data":"Dom 02 Jun",
+        "Hora":"18:30",
+        "Time da Casa":"Fortaleza",
+        "Time Visitante":"Athletico Paranaense",
+        "Resultado Casa":"4",
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":"1.90",
+        "X ODDS Empate":"2.05",
+        "2 ODDS Resultado Visitante":"2.10"
+    },
+    {
+        "Data":"Dom 02 Jun",
+        "Hora":"18:30",
+        "Time da Casa":"São Paulo",
+        "Time Visitante":"Cruzeiro",
+        "Resultado Casa":"2",
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":"2.05",
+        "X ODDS Empate":"2.80",
+        "2 ODDS Resultado Visitante":"1.90"
+    },
+    {
+        "Data":"Dom 02 Jun",
+        "Hora":"19:00",
+        "Time da Casa":"Juventude",
+        "Time Visitante":"Atlético GO",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":"1.83",
+        "X ODDS Empate":"2.40",
+        "2 ODDS Resultado Visitante":"1.50"
+    },
+    {
+        "Data":"Dom 02 Jun",
+        "Hora":"20:00",
+        "Time da Casa":"Cuiabá EC",
+        "Time Visitante":"Vitória",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":"1.50",
+        "X ODDS Empate":"1.57",
+        "2 ODDS Resultado Visitante":"2.25"
+    },
+    {
+        "Data":"Dom 09 Jun",
+        "Hora":"16:00",
+        "Time da Casa":"Criciúma",
+        "Time Visitante":"Cuiabá EC",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":"1.72",
+        "X ODDS Empate":"1.50",
+        "2 ODDS Resultado Visitante":"3.30"
+    },
+    {
+        "Data":"Ter 11 Jun",
+        "Hora":"19:00",
+        "Time da Casa":"Atlético GO",
+        "Time Visitante":"Corinthians",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":"3.20",
+        "X ODDS Empate":"3.20",
+        "2 ODDS Resultado Visitante":"3.40"
+    },
+    {
+        "Data":"Ter 11 Jun",
+        "Hora":"19:00",
+        "Time da Casa":"Juventude",
+        "Time Visitante":"Vitória",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":"3.20",
+        "X ODDS Empate":"4.00",
+        "2 ODDS Resultado Visitante":"4.00"
+    },
+    {
+        "Data":"Ter 11 Jun",
+        "Hora":"20:00",
+        "Time da Casa":"Botafogo",
+        "Time Visitante":"Fluminense",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":"3.25",
+        "X ODDS Empate":"3.75",
+        "2 ODDS Resultado Visitante":"4.00"
+    },
+    {
+        "Data":"Ter 11 Jun",
+        "Hora":"21:30",
+        "Time da Casa":"Bragantino",
+        "Time Visitante":"Atlético Mineiro",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":"4.33",
+        "X ODDS Empate":"4.33",
+        "2 ODDS Resultado Visitante":"3.30"
+    },
+    {
+        "Data":"Qui 13 Jun",
+        "Hora":"19:00",
+        "Time da Casa":"Cruzeiro",
+        "Time Visitante":"Cuiabá EC",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":"3.25",
+        "X ODDS Empate":"3.30",
+        "2 ODDS Resultado Visitante":"2.50"
+    },
+    {
+        "Data":"Qui 13 Jun",
+        "Hora":"20:00",
+        "Time da Casa":"Athletico Paranaense",
+        "Time Visitante":"Criciúma",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":"4.20",
+        "X ODDS Empate":"4.33",
+        "2 ODDS Resultado Visitante":"2.87"
+    },
+    {
+        "Data":"Qui 13 Jun",
+        "Hora":"20:00",
+        "Time da Casa":"Flamengo",
+        "Time Visitante":"Grêmio",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":"6.00",
+        "X ODDS Empate":"6.50",
+        "2 ODDS Resultado Visitante":"5.50"
+    },
+    {
+        "Data":"Qui 13 Jun",
+        "Hora":"20:00",
+        "Time da Casa":"Internacional",
+        "Time Visitante":"São Paulo",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":"3.10",
+        "X ODDS Empate":"4.50",
+        "2 ODDS Resultado Visitante":"6.50"
+    },
+    {
+        "Data":"Qui 13 Jun",
+        "Hora":"21:30",
+        "Time da Casa":"Bahia",
+        "Time Visitante":"Fortaleza",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":null,
+        "X ODDS Empate":null,
+        "2 ODDS Resultado Visitante":null
+    },
+    {
+        "Data":"Qui 13 Jun",
+        "Hora":"21:30",
+        "Time da Casa":"Palmeiras",
+        "Time Visitante":"Vasco da Gama",
+        "Resultado Casa":"1",
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":null,
+        "X ODDS Empate":null,
+        "2 ODDS Resultado Visitante":null
+    },
+    {
+        "Data":"Qui 13 Jun",
+        "Hora":"21:30",
+        "Time da Casa":"X",
+        "Time Visitante":"3.40",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":null,
+        "X ODDS Empate":null,
+        "2 ODDS Resultado Visitante":null
+    },
+    {
+        "Data":"Qui 13 Jun",
+        "Hora":"21:30",
+        "Time da Casa":"X",
+        "Time Visitante":"3.30",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":null,
+        "X ODDS Empate":null,
+        "2 ODDS Resultado Visitante":null
+    },
+    {
+        "Data":"Qui 13 Jun",
+        "Hora":"21:30",
+        "Time da Casa":"X",
+        "Time Visitante":"3.25",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":null,
+        "X ODDS Empate":null,
+        "2 ODDS Resultado Visitante":null
+    },
+    {
+        "Data":"Qui 13 Jun",
+        "Hora":"21:30",
+        "Time da Casa":"X",
+        "Time Visitante":"3.20",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":null,
+        "X ODDS Empate":null,
+        "2 ODDS Resultado Visitante":null
+    },
+    {
+        "Data":"Qui 13 Jun",
+        "Hora":"21:30",
+        "Time da Casa":"X",
+        "Time Visitante":"4.20",
+        "Resultado Casa":0,
+        "Resultado Visitante":0,
+        "1 ODDS Time da Casa":null,
+        "X ODDS Empate":null,
+        "2 ODDS Resultado Visitante":null
+    }
+]
